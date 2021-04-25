@@ -1,0 +1,20 @@
+{
+  "name": "pa3py6aka/yii2-discord-authclient",
+  "description": "Discord OAuth2 for yii2-authclient",
+  "keywords": ["yii2", "authclient", "oauth", "discord"],
+  "homepage": "http://github.com/pa3py6aka/yii2-discord-authclient",
+  "require": {
+    "yiisoft/yii2-authclient": "~2.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Savelyev"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "pa3py6aka\\yii2auth\\": "src"
+    }
+  }
+}
